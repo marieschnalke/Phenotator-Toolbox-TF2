@@ -1,0 +1,3 @@
+[submodule "tf-slim"]
+	path = tf-slim
+	url = https://github.com/google-research/tf-slim/

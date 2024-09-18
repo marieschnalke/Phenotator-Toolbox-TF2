@@ -1,0 +1,6 @@
+[submodule "tf-slim"]
+	path = tf-slim
+	url = https://github.com/google-research/tf-slim/
+[submodule "Tensorflow/tf-slim"]
+	path = Tensorflow/tf-slim
+	url = https://github.com/google-research/tf-slim
