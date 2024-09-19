@@ -40,7 +40,7 @@ pip install .
 
 Now the toolbox is ready to use
 
-The usage of the toolbox is almost the same as the original version. An additional feature is the support for SSD and EfficientDet. To use these, the corresponding lines in ```bash /utils/constants.py ``` and image-preprocessing.py need to be uncommented.
+The usage of the toolbox is almost the same as the original version. An additional feature is the support for SSD and EfficientDet. To use these, the corresponding lines in /utils/constants.py and image-preprocessing.py need to be uncommented.
 
 For more detailed instructions, please refer to the original documentation.
 
