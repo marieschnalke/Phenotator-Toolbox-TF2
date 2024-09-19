@@ -44,4 +44,4 @@ The usage of the toolbox is almost the same as the original version. An addition
 
 For more detailed instructions, please refer to the original documentation.
 
-An additional feature introduced is a dashboard providing an overview of the model predictions. To launch the dashboard, use the command ```bash python cli.py dashboard ```.
+An additional feature introduced is a dashboard providing an overview of the model predictions. To launch the dashboard, use the command ``` python cli.py dashboard ```.
